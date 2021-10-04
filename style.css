@@ -1,0 +1,16 @@
+body{
+text-align:center;
+background-color:aqua;
+}
+img{
+ width:500px;
+ height:500px;
+ 
+ border-radius:30px;
+}
+#image1{
+border: 5px solid coral;
+}
+#image2{
+border: 5px ridge cornflowerblue;
+}
